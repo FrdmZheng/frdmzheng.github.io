@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "郑亦凡"
-description              : "同济大学"
+title                    : "Yifan Zheng"
+description              : "Tongji University"
 description1             : ""
 description5             : ""
 repository               : "frdmzheng/frdmzheng.github.io"
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "郑亦凡"
+  name             : "Yifan Zheng郑亦凡"
   avatar           : "images/test.png"
   bio              : 
   bio1             : 
   bio2             : 
   bio3             : 
-  location         : "上海, 中国"
+  location         : "Shanghai, China"
   interest         : 
   employer         : 
   pubmed           : 
