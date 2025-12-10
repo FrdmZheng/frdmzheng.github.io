@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-郑亦凡，男，[同济大学交通学院](https://tjjt.tongji.edu.cn/)本科三年级在读。有时候会放一些东西在[Github](https://github.com/FrdmZheng)和[CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640)上。
+I'm currently a senior undergraduate at [College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/). I'll continue my doctoral studies at [School of Ocean and Civil Engineering, Shanghai Jiao Tong University](https://naoce.sjtu.edu.cn/).
 
 # 📖 Educations
-- *2022.09 - now*, [同济大学](https://www.tongji.edu.cn/), 交通运输, 学士.
-- *2024.09 - now*, [同济大学](https://www.tongji.edu.cn/), 人工智能, 辅修学士.
+- *2022.09 - now*, [Tongji University](https://www.tongji.edu.cn/), Traffic Transportation, Bachelor.
+- *2024.09 - now*, [Tongji University](https://www.tongji.edu.cn/), Artificial Intelligence, Minor Bachelor.
 
 # 📝 Publications 
 📃 Journal Papers
@@ -30,7 +30,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 Sensors
 
-🔥`New！`[A Comprehensive Framework for Evaluating Cycling Infrastructure: Fusing Subjective Perceptions with Objective Data](https://doi.org/10.3390/s25041168)
+[A Comprehensive Framework for Evaluating Cycling Infrastructure: Fusing Subjective Perceptions with Objective Data](https://doi.org/10.3390/s25041168)
 
 Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
@@ -40,15 +40,19 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 同济大学**优秀学生**（2023）
-- 同济大学**一等奖学金**（2023）
+- 🔥`New！`2025.12, **First-Class Scholarship** of Tongji University
+- 2023.12, **First-Class Scholarship** of Tongji University
+- 2023.11, **Honor Student** of Tongji University
 
 🏅 Awards
-- 🔥`New！`“船视宝”杯第二十届全国大学生交通运输科技大赛**二等奖**（2025）
-- 全国大学生数学建模竞赛**上海市二等奖**（2024）
-- 上海市“林龙照明杯”交通运输科技大赛**二等奖**（2024）
-- 同济大学数学建模竞赛**一等奖**（2024）
+- 2025.08, **Second Prize**, "China Merchants Bank" Cup 18th National College Students' Social Practice and Technology Competition for Energy Conservation and Emissions Reduction
+- 2025.05, **Second Prize**, "ChuanShiBao" Cup 20th National College Student Transportation Technology Competition
+- 2024.12, **Second Prize in Shanghai**, National College Student Mathematical Modeling Competition
+- 2024.06, **First Prize**, Tongji University Mathematical Modeling Competition
 
+# 💻 Internships
+- 2025.10 - 2026.03, Shanghai Xuhui District Committee of the Communist Youth League, Shanghai
+- 2025.07 - 2025.08, China Railway Shanghai Group, Shanghai.
 
 # 🔍 Links
  [Wechat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) / [CV](../简历.pdf) / [Github](https://github.com/FrdmZheng)
