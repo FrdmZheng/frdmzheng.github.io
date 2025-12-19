@@ -40,18 +40,18 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`2025.12, **First-Class Scholarship** of Tongji University
-- 2023.12, **First-Class Scholarship** of Tongji University
-- 2023.11, **Honor Student** of Tongji University
+- 🔥`New！`2025.12, **First-Class Scholarship** of Tongji University.
+- 2023.12, **First-Class Scholarship** of Tongji University.
+- 2023.11, **Honor Student** of Tongji University.
 
 🏅 Awards
-- 2025.08, **Second Prize**, "China Merchants Bank" Cup 18th National College Students' Social Practice and Technology Competition for Energy Conservation and Emissions Reduction
-- 2025.05, **Second Prize**, "ChuanShiBao" Cup 20th National College Student Transportation Technology Competition
-- 2024.12, **Second Prize in Shanghai**, National College Student Mathematical Modeling Competition
-- 2024.06, **First Prize**, Tongji University Mathematical Modeling Competition
+- 2025.08, **Second Prize**, "China Merchants Bank" Cup 18th National College Students' Social Practice and Technology Competition for Energy Conservation and Emissions Reduction.
+- 2025.05, **Second Prize**, "ChuanShiBao" Cup 20th National College Student Transportation Technology Competition.
+- 2024.12, **Second Prize in Shanghai**, National College Student Mathematical Modeling Competition.
+- 2024.06, **First Prize**, Tongji University Mathematical Modeling Competition.
 
 # 💻 Internships
-- 2025.10 - 2026.03, Shanghai Xuhui District Committee of the Communist Youth League, Shanghai
+- 2025.10 - 2026.03, Shanghai Xuhui District Committee of the Communist Youth League, Shanghai.
 - 2025.07 - 2025.08, China Railway Shanghai Group, Shanghai.
 
 # 🔍 Links
