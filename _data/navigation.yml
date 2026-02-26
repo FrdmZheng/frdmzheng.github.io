@@ -14,6 +14,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Patents"
+    url: "/#-patents"
   
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -39,6 +42,9 @@ cn:
 
   - title: "学术论文"
     url: "/cn/#-publications"
+
+  - title: "发明专利"
+    url: "/cn/#-patents"
   
   - title: "荣誉奖项"
     url: "/cn/#-honors-and-awards"
