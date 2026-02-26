@@ -37,6 +37,8 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 </div>
 </div>
 
+# 📚 Patents
+- A multimodal data fusion method for evaluating the friendliness of urban road cycling (CN202411889146.6)
 
 # 🏆 Honors and Awards
 🏅 Honors
