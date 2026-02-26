@@ -55,5 +55,5 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 - 2025.07 - 2025.08, China Railway Shanghai Group, Shanghai.
 
 # 🔍 Links
- [WeChat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) / [Github](https://github.com/FrdmZheng)
+ [WeChat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) / [Github](https://github.com/FrdmZheng) / [Google Scholar](https://scholar.google.com/citations?user=a7KowJEAAAAJ&hl=zh-CN&oi=sra)
 
