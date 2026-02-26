@@ -46,7 +46,7 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 荣誉奖项
 🏅 荣誉
-- 🔥`New！`2025.12, 同济大学**一等奖学金**.
+- 2025.12, 同济大学**一等奖学金**.
 - 2023.12, 同济大学**一等奖学金**.
 - 2023.11, 同济大学**优秀学生**.
 
@@ -58,7 +58,7 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 <span class='anchor' id='-internships'></span>
 # 💻 实习经历
-- 2025.10 - 2026.03, 共青团上海市徐汇区委员会, 政务见习.
+- 🔥`New！`2025.10 - 2026.03, 共青团上海市徐汇区委员会, 政务见习.
 - 2025.07 - 2025.08, 中国铁路上海局集团有限公司, 毕业实习.
 
 <span class='anchor' id='-links'></span>
