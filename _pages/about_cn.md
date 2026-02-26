@@ -39,6 +39,10 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 </div>
 </div>
 
+<span class='anchor' id='-patents'></span>
+# 📚 发明专利
+- 一种多模态数据融合的城市道路骑行友好性评价方法 CN202411889146.6
+
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 荣誉奖项
 🏅 荣誉
