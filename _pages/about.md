@@ -42,7 +42,7 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`2025.12, **First-Class Scholarship** of Tongji University.
+- 2025.12, **First-Class Scholarship** of Tongji University.
 - 2023.12, **First-Class Scholarship** of Tongji University.
 - 2023.11, **Honor Student** of Tongji University.
 
@@ -53,7 +53,7 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 - 2024.06, **First Prize**, Tongji University Mathematical Modeling Competition.
 
 # 💻 Internships
-- 2025.10 - 2026.03, Shanghai Xuhui District Committee of the Communist Youth League, Shanghai.
+- 🔥`New！`2025.10 - 2026.03, Shanghai Xuhui District Committee of the Communist Youth League, Shanghai.
 - 2025.07 - 2025.08, China Railway Shanghai Group, Shanghai.
 
 # 🔍 Links
