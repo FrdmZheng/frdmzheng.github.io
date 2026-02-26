@@ -11,7 +11,7 @@ description              : "Tongji University"
 description1             : ""
 description5             : ""
 repository               : "frdmzheng/frdmzheng.github.io"
-google_scholar_stats_use_cdn : false # true
+google_scholar_stats_use_cdn : true # true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
