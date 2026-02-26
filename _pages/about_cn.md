@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[同济大学交通学院](https://tjjt.tongji.edu.cn/)在读2022级本科生。[上海交通大学船舶海洋与建筑工程学院](https://naoce.sjtu.edu.cn/)2026级直博生。诚挚希望业界大拿联系交流。
+[同济大学交通学院](https://tjjt.tongji.edu.cn/)在读2022级本科生。[上海交通大学船舶海洋与建筑工程学院](https://naoce.sjtu.edu.cn/)2026级直博生。诚挚希望业界大佬联系交流。
 
 <span class='anchor' id='-educations'></span>
 # 📖 教育经历
