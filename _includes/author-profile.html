@@ -35,10 +35,10 @@
         <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description5 }}</div></li>
       {% endif %}
       {% if author.interest %}
-        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-graduation-cap" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.interest }}</div>
+        <li><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> {{ author.interest }}</li>
       {% endif %}
       {% if author.location %}
-        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-map-marker" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.location }}</div>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -47,10 +47,10 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.phone %}
-        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-phone" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.phone }}</div>
+        <li><i class="fa fa-fw fa-phone" aria-hidden="true"></i> {{ author.phone }}</li>
       {% endif %}
       {% if author.email %}
-        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-envelope" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.email }}</div>
+        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
