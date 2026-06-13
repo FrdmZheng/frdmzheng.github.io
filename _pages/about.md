@@ -42,7 +42,7 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`2026.05, **Outstanding graduate** of Shanghai
+- 🔥`New！`2026.05, **Outstanding graduate** of Shanghai.
 - 2025.12, **First-Class Scholarship** of Tongji University.
 - 2023.12, **First-Class Scholarship** of Tongji University.
 - 2023.11, **Honor Student** of Tongji University.
