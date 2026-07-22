@@ -52,15 +52,6 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
       {% endif %}
-      {% if author.links %}
-        {% for link in author.links %}
-          {% assign link_url = link.url %}
-          {% unless link_url contains '://' %}
-            {% assign link_url = link_url | relative_url %}
-          {% endunless %}
-          <li><a href="{{ link_url }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="" class="author__link-icon" width="16" height="16">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %} {{ link.label }}</a></li>
-        {% endfor %}
-      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -148,6 +139,15 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.links %}
+        {% for link in author.links %}
+          {% assign link_url = link.url %}
+          {% unless link_url contains '://' %}
+            {% assign link_url = link_url | relative_url %}
+          {% endunless %}
+          <li><a href="{{ link_url }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="" class="author__link-icon" width="16" height="16">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %} {{ link.label }}</a></li>
+        {% endfor %}
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -155,15 +155,6 @@
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.links %}
-        {% for link in author.links %}
-          {% assign link_url = link.url %}
-          {% unless link_url contains '://' %}
-            {% assign link_url = link_url | relative_url %}
-          {% endunless %}
-          <a href="{{ link_url }}" title="{{ link.label }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="{{ link.label }}" class="author__link-icon author__link-icon--sm" width="16" height="16">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %}</a>
-        {% endfor %}
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -251,6 +242,15 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.links %}
+        {% for link in author.links %}
+          {% assign link_url = link.url %}
+          {% unless link_url contains '://' %}
+            {% assign link_url = link_url | relative_url %}
+          {% endunless %}
+          <a href="{{ link_url }}" title="{{ link.label }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="{{ link.label }}" class="author__link-icon author__link-icon--sm" width="16" height="16">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %}</a>
+        {% endfor %}
       {% endif %}
     </div>
   </div>
