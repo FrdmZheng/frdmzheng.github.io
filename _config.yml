@@ -41,7 +41,7 @@ author:
       icon: "fab fa-fw fa-weixin"
       url: "/images/WeChatQR.png"
     - label: "CSDN"
-      icon: "fas fa-fw fa-link"
+      image: "/images/csdn-icon.png"
       url: "https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

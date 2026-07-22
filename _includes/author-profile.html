@@ -58,7 +58,7 @@
           {% unless link_url contains '://' %}
             {% assign link_url = link_url | relative_url %}
           {% endunless %}
-          <li><a href="{{ link_url }}"><i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li><a href="{{ link_url }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="" class="author__link-icon">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %} {{ link.label }}</a></li>
         {% endfor %}
       {% endif %}
       {% if author.keybase %}
@@ -162,7 +162,7 @@
           {% unless link_url contains '://' %}
             {% assign link_url = link_url | relative_url %}
           {% endunless %}
-          <a href="{{ link_url }}" title="{{ link.label }}"><i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i></a>
+          <a href="{{ link_url }}" title="{{ link.label }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="{{ link.label }}" class="author__link-icon author__link-icon--sm">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %}</a>
         {% endfor %}
       {% endif %}
       {% if author.keybase %}
