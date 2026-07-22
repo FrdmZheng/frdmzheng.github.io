@@ -20,8 +20,8 @@ redirect_from:
 I'm currently a senior undergraduate at [College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/). I'll continue my doctoral studies at [School of Ocean and Civil Engineering, Shanghai Jiao Tong University](https://naoce.sjtu.edu.cn/).
 
 # 📖 Educations
-- *2022.09 - now*, [Tongji University](https://www.tongji.edu.cn/), Traffic Transportation, Bachelor.
-- *2024.09 - now*, [Tongji University](https://www.tongji.edu.cn/), Artificial Intelligence, Minor Bachelor.
+- *2022.09 - 2026.08*, [Tongji University](https://www.tongji.edu.cn/), Traffic Transportation, Bachelor.
+- *2024.09 - 2026.08*, [Tongji University](https://www.tongji.edu.cn/), Artificial Intelligence, Minor Bachelor.
 
 # 📝 Publications 
 📃 Journal Papers
