@@ -58,7 +58,7 @@
           {% unless link_url contains '://' %}
             {% assign link_url = link_url | relative_url %}
           {% endunless %}
-          <li><a href="{{ link_url }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="" class="author__link-icon" width="18" height="18">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %} {{ link.label }}</a></li>
+          <li><a href="{{ link_url }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="" class="author__link-icon" width="16" height="16">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %} {{ link.label }}</a></li>
         {% endfor %}
       {% endif %}
       {% if author.keybase %}
@@ -162,7 +162,7 @@
           {% unless link_url contains '://' %}
             {% assign link_url = link_url | relative_url %}
           {% endunless %}
-          <a href="{{ link_url }}" title="{{ link.label }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="{{ link.label }}" class="author__link-icon author__link-icon--sm" width="18" height="18">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %}</a>
+          <a href="{{ link_url }}" title="{{ link.label }}">{% if link.image %}<img src="{{ link.image | relative_url }}" alt="{{ link.label }}" class="author__link-icon author__link-icon--sm" width="16" height="16">{% else %}<i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i>{% endif %}</a>
         {% endfor %}
       {% endif %}
       {% if author.keybase %}
