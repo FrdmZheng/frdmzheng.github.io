@@ -52,6 +52,15 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
       {% endif %}
+      {% if author.links %}
+        {% for link in author.links %}
+          {% assign link_url = link.url %}
+          {% unless link_url contains '://' %}
+            {% assign link_url = link_url | relative_url %}
+          {% endunless %}
+          <li><a href="{{ link_url }}"><i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endfor %}
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -146,6 +155,15 @@
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.links %}
+        {% for link in author.links %}
+          {% assign link_url = link.url %}
+          {% unless link_url contains '://' %}
+            {% assign link_url = link_url | relative_url %}
+          {% endunless %}
+          <a href="{{ link_url }}" title="{{ link.label }}"><i class="{{ link.icon | default: 'fas fa-fw fa-link' }}" aria-hidden="true"></i></a>
+        {% endfor %}
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>

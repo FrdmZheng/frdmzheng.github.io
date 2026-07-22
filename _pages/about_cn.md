@@ -61,7 +61,3 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 # 💻 实习经历
 - 2025.10 - 2026.03, 共青团上海市徐汇区委员会, 政务见习.
 - 2025.07 - 2025.08, 中国铁路上海局集团有限公司, 毕业实习.
-
-<span class='anchor' id='-links'></span>
-# 🔍 相关链接
- [WeChat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) 

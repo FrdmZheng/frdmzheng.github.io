@@ -56,7 +56,3 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 # 💻 Internships
 - 2025.10 - 2026.03, Shanghai Xuhui District Committee of the Communist Youth League, Shanghai.
 - 2025.07 - 2025.08, China Railway Shanghai Group, Shanghai.
-
-# 🔍 Links
- [WeChat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) 
-

@@ -23,9 +23,6 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
-
-  - title: "Links"
-    url: "/#-links"
     
 cn:
   - title: "关于我"
@@ -51,6 +48,3 @@ cn:
 
   - title: "实习经历"
     url: "/cn/#-internships"
-
-  - title: "相关链接"
-    url: "/cn/#-links"
