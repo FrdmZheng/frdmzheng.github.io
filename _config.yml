@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Zheng"
-description              : "Tongji University"
+description              : "Shanghai Jiao Tong University"
 description1             : ""
 description5             : ""
 repository               : "frdmzheng/frdmzheng.github.io"
@@ -35,7 +35,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a7KowJEAAAAJ&hl=zh-CN&oi=sra" # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   phone            :  # # ""
-  email            : "2253783@tongji.edu.cn"
+  email            : "frdmzheng@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
