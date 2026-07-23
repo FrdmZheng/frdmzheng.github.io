@@ -22,6 +22,7 @@ I'm currently a senior undergraduate at [College of Transportation, Tongji Unive
 # 📖 Educations
 - *2022.09 - 2026.08*, [Tongji University](https://www.tongji.edu.cn/), Traffic Transportation, Bachelor.
 - *2024.09 - 2026.08*, [Tongji University](https://www.tongji.edu.cn/), Artificial Intelligence, Minor Bachelor.
+- *2026.09 - now*, [Shanghai Jiao Tong University](https://www.tongji.edu.cn/), Traffic Transportation, Ph.D.
 
 # 📝 Publications 
 📃 Journal Papers
