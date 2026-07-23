@@ -124,3 +124,17 @@ h1:before, .anchor:before {
 .author__link-icon--sm {
     margin-right: 0;
 }
+
+.author__urls_sm a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.28571429em;
+    line-height: 1;
+    vertical-align: middle;
+}
+
+.author__urls_sm img.author__link-icon--sm {
+    margin: 0;
+    vertical-align: middle;
+}
