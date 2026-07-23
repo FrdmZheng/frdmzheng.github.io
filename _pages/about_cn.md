@@ -23,7 +23,7 @@ redirect_from:
 # 📖 教育经历
 - *2022.09 - 2026.08*, [同济大学](https://www.tongji.edu.cn/), 交通运输, 学士.
 - *2024.09 - 2026.08*, [同济大学](https://www.tongji.edu.cn/), 人工智能, 辅修学士.
-- *2026.09 - 至今*, [上海交通大学](https://www.tongji.edu.cn/), 交通运输, 博士.
+- *2026.09 - 至今*, [上海交通大学](https://www.sjtu.edu.cn/), 交通运输, 博士.
 
 <span class='anchor' id='-publications'></span>
 # 📝 学术论文 
